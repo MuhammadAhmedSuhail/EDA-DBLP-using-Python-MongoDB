@@ -1,4 +1,4 @@
-# EDA DBLP using Python and MongoDB
+# EDA on DBLP using Python and MongoDB
 
 ## Project Description
 
@@ -27,7 +27,7 @@ You will need to download dblp.xml file from [here](https://dblp.org/xml/).
 ### Installing
 Clone this repository onto your local machine.
 ```
-git clone https://github.com/MuhammadAhmedSuhail/EDA-DBLP-using-Python-MongoDB.git
+git clone https://github.com/MuhammadAhmedSuhail/EDA-on-DBLP-using-Python-MongoDB.git
 ```
 Install the required packages.
 ```
