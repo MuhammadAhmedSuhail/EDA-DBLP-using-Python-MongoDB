@@ -90,7 +90,7 @@ By coming up with my own questions and using visualizations to answer them, I wa
 - Muhammad Ahmed Suhail
 
 ## Acknowledgments:
-- This project was completed as an assignment for Big Data Analytics at FAST - NUCES Islamabad.
+- This project was completed as an assignment for **Big Data Analytics** at FAST - NUCES Islamabad.
 
 
 
